@@ -1,5 +1,5 @@
 # jservice.js
-Web-API for [jservice.io](https://jservice.io) website that provides Jeopardy trivia data including the questions and answers
+Web-API for [jservice.io](https://jservice.io) website that provides Jeopardy trivia data including the questions and answers. [Source](https://github.com/sottenad/jService)
 
 ## Example
 ```JavaScript
